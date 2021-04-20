@@ -3,16 +3,14 @@ annotation_type: pagination
 revision: '00001'
 annotations:
   bf97c2fe7e4c4b0d95968b70a299fb35:
-    page_index: 2a
-    page_info: null
-    reference: I1PD1058570003
+    imgnum: 1
+    reference: I1PD1058570003.jpg
     span:
       start: 4
       end: 455
   242c51349b454871bf1acee8fb0cbcb3:
-    page_index: 97b
-    page_info: null
-    reference: I1PD1058570194
+    imgnum: 2
+    reference: I1PD1058570194.jpg
     span:
       start: 460
       end: 518
